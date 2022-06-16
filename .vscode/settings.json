@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"**/config.bin": true,
+		"**/texHeaders.bin": true
+	},
+	"editor.detectIndentation": false,
+	"editor.renderWhitespace": "all",
+	"editor.insertSpaces": false,
+	"editor.tabCompletion": "on"
+}

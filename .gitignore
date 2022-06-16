@@ -1,0 +1,10 @@
+*.pbo
+*.bisignkey
+*.bisign
+*.xml
+addons/a3ua_i18n_main/3den_language
+addons/a3ua_i18n_main/language*
+runtime
+.history
+*.orig
+SRC Graphics/*
