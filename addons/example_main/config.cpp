@@ -13,18 +13,19 @@
  *  <https://www.bohemia.net/community/licenses/arma-public-license>.      *
  *                                                                         *
  ***************************************************************************/
- 
+
 class CfgPatches {
-    class example_main {
-        name = "example_main";
-        units[] = {};
-        weapons[] = {};
-        requiredAddons[] = {};
+	class example_main {
+		name = "example_main";
+		units[] = {};
+		weapons[] = {};
+		requiredAddons[] = {};
 		author = "Arma3 Ukraine Community: http://gg.gg/arma3ua";
-        url = "http://gg.gg/arma3ua";
-        version = 1.0;
-    };
+		url = "http://gg.gg/arma3ua";
+		version = 1.0;
+	};
 };
 
 #include "CfgMods.hpp"
+
 #include "CfgVehicles.hpp"

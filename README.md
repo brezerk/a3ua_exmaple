@@ -1,12 +1,6 @@
-<p align="center">
-    <img src="https://github.com/brezerk/a3ua_cl/raw/master/projecta3ua_git.jpg" width="480">
-</p>
-
 ## About
 
-**a3ua_example** Arma Ukraine Community - Example mod
-
-2071 рік. Світ який ви знали загинув багато років тому. Після техногенної катастрофи, що забрала життя більшої частини населення розпочалась остання світова війна за їжу, воду та залишки ресурсів. В своїй агонії вцілілі держави пустили в хід все що в них лишилось: армію, авіацію, флот, бомби, біологічну та ядерну зброю. Вціліли об'єднувались у зграї та банди, забезпечуючи собі виживання у цьому новому страхітливому світі.
+**a3ua_example** Arma Ukraine Community - Example Mod see our video guide series at Youtube: https://www.youtube.com/watch?v=3bIMzdZLUSo&list=PLcKG3Sy2n_6fNHwwQPSCVoQYbW-QLQoo3
 
 ## Installing
 
